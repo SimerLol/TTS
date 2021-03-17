@@ -2,7 +2,7 @@
 ![](https://media.discordapp.net/attachments/661208614589038603/821761340375826472/unknown.png)
 
 
-Please [Click Here](https://repl.it/@Simer00/TTS?v=1) to see the code in action!
+Please **[Click Here](https://repl.it/@Simer00/TTS?v=1)** to see the code in action!
 
 * ## __*Features*__
   * Simple
